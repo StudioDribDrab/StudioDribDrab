@@ -2,4 +2,5 @@
 **Creative developer**
 
 - 🔭 I’m currently working on completing and deploying my portfolio.
+- 💬 Talk to me: @Puggathy
 - 😄 Pronouns: He/Him
