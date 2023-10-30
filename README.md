@@ -1,6 +1,5 @@
-### Hi there im a pug whats more to say👋
+### Hi there im DribDrab👋
 **Creative developer**
 
-- 🔭 I’m currently working on completing and deploying my portfolio.
-- 💬 Talk to me: @Puggathy
+- 🔭 I’m currently working on deploying my portfolio.
 - 😄 Pronouns: He/Him
