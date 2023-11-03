@@ -1,5 +1,6 @@
 ### Hi there im DribDrab👋
 **Creative developer**
 
-- 🔭 I’m currently working on deploying my portfolio.
+- 🔭 Deploying a portfolio,
+- 🔭 Developing an opensourse audio recorder
 - 😄 Pronouns: He/Him
