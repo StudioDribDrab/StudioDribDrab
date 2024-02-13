@@ -2,5 +2,5 @@
 **Creative developer**
 
 - 🔭 Deploying a portfolio,
-- 🔭 Developing an opensourse audio recorder
+- 🔭 Developing a tab recorder for browsers to record and transcribe online meetings
 - 😄 Pronouns: He/Him
