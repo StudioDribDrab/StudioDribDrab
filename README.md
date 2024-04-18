@@ -1,6 +1,11 @@
-### Hi there im DribDrab👋
-**Creative developer**
+### Hey there 👋, 
+I’m DribDrab a full stack developer, graphic designer, and illustrator based in Australia.
+Portfolio: dribdrab.studio
 
-- 🔭 Deploying a portfolio,
-- 🔭 Developing a tab recorder for browsers to record and transcribe online meetings
+- 🌱 Fulltime Highschool student
+- 📫 How to reach me: contact@dribdrab.studio
 - 😄 Pronouns: He/Him
+- 🔭 Developing a AV meeting and lesson recorder/transcriber/note taking extension.
+- 🔭 Experimenting in game design
+
+  
