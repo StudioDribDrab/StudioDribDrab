@@ -1,6 +1,8 @@
 ### Hey there 👋, 
 I’m DribDrab a full stack developer, graphic designer, and illustrator based in Australia. <br>
-Portfolio: dribdrab.studio <br>
+Portfolio: [dribdrab.studio](https://dribdrab.studio/) <br>
+
+
 
 - 🌱 Fulltime Highschool student 
 - 📫 How to reach me: contact@dribdrab.studio
