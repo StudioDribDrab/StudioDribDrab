@@ -10,8 +10,7 @@ Portfolio: [dribdrab.studio](https://dribdrab.studio/) <br>
 - 🔭 Developing a AV meeting and lesson recorder/transcriber/note taking extension.
 - 🔭 Experimenting in game design
 
-
-
+![Snake animation](https://github.com/StudioDribDrab/StudioDribDrab/blob/output/github-contribution-grid-snake.svg)
   
 ### Operating System experience:
   ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
