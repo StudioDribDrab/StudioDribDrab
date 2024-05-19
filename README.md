@@ -6,7 +6,6 @@ Portfolio: [dribdrab.studio](https://dribdrab.studio/) <br>
 
 - 🌱 Fulltime Highschool student 
 - 📫 How to reach me: contact@dribdrab.studio
-- 😄 Pronouns: He/Him
 - 🔭 Developing a AV meeting and lesson recorder/transcriber/note taking extension.
 - 🔭 Experimenting in game design
   
