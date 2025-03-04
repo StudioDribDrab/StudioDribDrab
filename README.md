@@ -6,8 +6,10 @@ Portfolio: [dribdrab.studio](https://dribdrab.studio/) <br>
 
 - 🌱 Fulltime Highschool student 
 - 📫 How to reach me: contact@dribdrab.studio
-- 🔭 Developing a AV meeting and lesson recorder/transcriber/note taking extension.
+- 🔭 Developed an AV meeting and lesson recorder/transcriber/note taking extension.
 - 🔭 Experimenting in game design
+- 🛠️ Working on a Python Weather application
+
   
 ### Operating System experience:
   ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
