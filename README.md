@@ -1,5 +1,5 @@
 ### Hey there 👋, 
-I’m DribDrab a full stack developer, graphic designer, and illustrator based in Australia. <br>
+I’m dribdrab a full stack developer, graphic designer, and illustrator based in Australia. <br>
 Portfolio: [dribdrab.studio](https://dribdrab.studio/) <br>
 
 
