@@ -4,7 +4,8 @@ Portfolio: [dribdrab.studio](https://dribdrab.studio/) <br>
 
 
 
-- 🌱 Fulltime Highschool student 
+- 🌱 Full-time Highschool student
+- 🌱 Part-time University Headstart student
 - 📫 How to reach me: contact@dribdrab.studio
 - 🔭 Developed an AV meeting and lesson recorder/transcriber/note taking extension.
 - 🔭 Experimenting in game design
