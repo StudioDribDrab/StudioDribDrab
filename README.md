@@ -9,7 +9,18 @@ Portfolio: [dribdrab.studio](https://dribdrab.studio/) <br>
 - 📫 How to reach me: contact@dribdrab.studio
 - 🔭 Developed an AV meeting and lesson recorder/transcriber/note taking extension.
 - 🔭 Experimenting in game design
-- 🛠️ Working on a Python Weather application
+
+<table>
+  <tr>
+    <td>🌤️</td>
+    <td>I am the solo indie developer and designer of Stratos Weather.</td>
+    <td>
+      <a href="https://stratos.dribdrab.studio">
+        <img src="https://img.shields.io/badge/Stratos_Weather-05b4ff?style=for-the-badge&logo=python&logoColor=white" alt="Stratos Weather">
+      </a>
+    </td>
+  </tr>
+</table>
 
   
 ### Operating System experience:
